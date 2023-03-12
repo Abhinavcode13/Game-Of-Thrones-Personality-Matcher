@@ -1,3 +1,4 @@
 # Game-Of-Thrones-Personality-Matcher ⚔️
 
-![demo](https://user-images.githubusercontent.com/126642111/224547443-a7882c8f-7a92-4abc-9343-b981d037e964.png)
+
+![demo](https://user-images.githubusercontent.com/126642111/224547533-d4542850-80c4-4700-93af-b53a70762082.png)
